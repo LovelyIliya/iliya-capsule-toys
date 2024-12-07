@@ -6,7 +6,7 @@
 </template>
 
 <script>
-	import iliyaCapsuleToys from '../../components/iliya-capsule-toys/iliya-capsule-toys.vue';
+	import iliyaCapsuleToys from '../../uni_modules/iliya-capsule-toys/components/iliya-capsule-toys/iliya-capsule-toys.vue'
 	export default {
 		components: {
 			iliyaCapsuleToys
