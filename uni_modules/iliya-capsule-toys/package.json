@@ -1,10 +1,13 @@
 {
   "id": "iliya-capsule-toys",
-  "displayName": "移动端扭蛋机",
+  "displayName": "移动端扭蛋机组件",
   "version": "1.0.0",
-  "description": "iliya-capsule-toys",
+  "description": "一个适配移动端的扭蛋机组件，使用方法简单，具有动效，满足大部分抽奖页面需求",
   "keywords": [
-    "iliya-capsule-toys"
+    "扭蛋机",
+    "h5",
+    "微信小程序",
+    "示例工程"
 ],
   "repository": "https://github.com/LovelyIliya/iliya-capsule-toys/tree/main",
   "engines": {
