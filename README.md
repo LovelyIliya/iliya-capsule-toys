@@ -3,9 +3,7 @@ uniapp扭蛋机组件
 
 ## 示例图片
 
-<img src="C:\Users\赵益嘉\AppData\Roaming\Typora\typora-user-images\image-20241207182427744.png" alt="image-20241207182427744" style="zoom:50%;" /><img src="C:\Users\赵益嘉\AppData\Roaming\Typora\typora-user-images\image-20241207182659876.png" alt="image-20241207182659876" style="zoom:50%;" />
-
-<img src="C:\Users\赵益嘉\AppData\Roaming\Typora\typora-user-images\image-20241207183021917.png" alt="image-20241207183021917" style="zoom:50%;" /><img src="C:\Users\赵益嘉\AppData\Roaming\Typora\typora-user-images\image-20241207182744565.png" alt="image-20241207182744565" style="zoom:50%;" /><img src="C:\Users\赵益嘉\AppData\Roaming\Typora\typora-user-images\image-20241207182805335.png" alt="image-20241207182805335" style="zoom:50%;" /><img src="C:\Users\赵益嘉\AppData\Roaming\Typora\typora-user-images\image-20241207182832593.png" alt="image-20241207182832593" style="zoom:50%;" />
+<img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\dai-chou-qu.png" alt="dai-chou-qu" style="zoom:50%;" /><img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\chou-qu-zhong.png" alt="chou-qu-zhong" style="zoom:50%;" /><img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\diao-luo.png" alt="diao-luo" style="zoom:50%;" /><img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\wei-zhong-jiang.png" alt="wei-zhong-jiang" style="zoom:50%;" /><img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\chou-qu-jie-guo.png" alt="chou-qu-jie-guo" style="zoom:50%;" /><img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\bu-ke-chou-qu.png" alt="bu-ke-chou-qu" style="zoom:50%;" />
 
 ## 使用示例
 
