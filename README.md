@@ -3,7 +3,7 @@ uniapp扭蛋机组件
 
 ## 示例图片
 
-<img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\dai-chou-qu.png" alt="dai-chou-qu" style="zoom:50%;" /><img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\chou-qu-zhong.png" alt="chou-qu-zhong" style="zoom:50%;" /><img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\diao-luo.png" alt="diao-luo" style="zoom:50%;" /><img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\wei-zhong-jiang.png" alt="wei-zhong-jiang" style="zoom:50%;" /><img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\chou-qu-jie-guo.png" alt="chou-qu-jie-guo" style="zoom:50%;" /><img src="D:\devTool\web前端\个人项目\iliya-capsule-toys\static\exampleImg\bu-ke-chou-qu.png" alt="bu-ke-chou-qu" style="zoom:50%;" />
+<img src="\static\exampleImg\dai-chou-qu.png" alt="dai-chou-qu" style="zoom:50%;" /><img src="\static\exampleImg\chou-qu-zhong.png" alt="chou-qu-zhong" style="zoom:50%;" /><img src="\static\exampleImg\diao-luo.png" alt="diao-luo" style="zoom:50%;" /><img src="\static\exampleImg\wei-zhong-jiang.png" alt="wei-zhong-jiang" style="zoom:50%;" /><img src="\static\exampleImg\chou-qu-jie-guo.png" alt="chou-qu-jie-guo" style="zoom:50%;" /><img src="\static\exampleImg\bu-ke-chou-qu.png" alt="bu-ke-chou-qu" style="zoom:50%;" />
 
 ## 使用示例
 
