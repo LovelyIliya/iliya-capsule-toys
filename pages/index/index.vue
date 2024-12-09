@@ -47,8 +47,9 @@
 
 <style>
 	.content {
-		padding-top: 200rpx;
+		padding-top: 100rpx;
 		background: red;
 		height: 100vh;
+		box-sizing: border-box;
 	}
 </style>

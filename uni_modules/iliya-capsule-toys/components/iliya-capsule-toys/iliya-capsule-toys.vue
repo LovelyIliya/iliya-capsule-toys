@@ -162,7 +162,7 @@
 				z-index: 20;
 				top: 50%;
 				left: 50%;
-				transform: translate(-50%, -50%);
+				transform: translate(-50%, -60%);
 			}
 
 			.not-win-img {
@@ -212,7 +212,6 @@
 		position: relative;
 		height: 800rpx;
 		font-size: 16px;
-		margin-top: -100rpx;
 
 		.egg-twist-main-img {
 			width: 100%;
@@ -235,7 +234,7 @@
 			width: 130rpx;
 			height: 18%;
 			z-index: 4;
-			bottom: 0;
+			bottom: 2px;
 			left: 24%;
 		}
 
@@ -467,12 +466,12 @@
 		}
 
 		10% {
-			left: 7%;
+			left: 6.8%;
 			transform: rotateZ(-90deg);
 		}
 
 		50% {
-			left: 7%;
+			left: 6.8%;
 			top: 75%;
 			transform: rotateZ(-90deg);
 		}
@@ -481,7 +480,7 @@
 			width: 100rpx;
 			height: 10%;
 			z-index: 5;
-			top: 88%;
+			top: 87%;
 			left: 30%;
 			transform: rotateZ(40deg);
 		}

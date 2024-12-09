@@ -1,7 +1,7 @@
 {
   "id": "iliya-capsule-toys",
   "displayName": "移动端扭蛋机组件",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个适配移动端的扭蛋机组件，使用方法简单，具有动效，满足大部分抽奖页面需求",
   "keywords": [
     "扭蛋机",
